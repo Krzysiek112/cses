@@ -1,5 +1,5 @@
 Intro: 6  
-Sorting & Searching: 3  
+Sorting & Searching: 4  
 Dp: 0  
 Graph: 2  
 Range query: 0  
@@ -15,4 +15,4 @@ Counting: 0
 Additional I: 0  
 Additional II: 0  
   
-total: 11
+total: 13
