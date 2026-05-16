@@ -1,4 +1,4 @@
-Intro: 5  
+Intro: 6  
 Sorting & Searching: 3  
 Dp: 0  
 Graph: 2  
